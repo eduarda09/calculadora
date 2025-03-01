@@ -1,12 +1,6 @@
-# React + Vite
+Criei uma calculadora básica utilizando o framework React.js e a linguagem JavaScript. A aplicação permite realizar operações matemáticas essenciais, como soma, subtração, multiplicação e divisão.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A interface foi desenvolvida com um design simples e intuitivo, garantindo uma experiência fácil para o usuário. A calculadora recebe os números digitados, processa a operação escolhida e exibe o resultado instantaneamente. Além disso, utilizei conceitos de componentização e estados do React para gerenciar as interações de forma eficiente.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![image](https://github.com/user-attachments/assets/af95ec30-52b8-4618-b1c3-dcc4dea3ea7d)
